@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Sameerthakurr/leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Sameerthakurr/leetcode/tree/master/0506-relative-ranks) |
 | [0598-range-addition-ii](https://github.com/Sameerthakurr/leetcode/tree/master/0598-range-addition-ii) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Sameerthakurr/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/Sameerthakurr/leetcode/tree/master/0598-range-addition-ii) |
 | [0728-self-dividing-numbers](https://github.com/Sameerthakurr/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/Sameerthakurr/leetcode/tree/master/0836-rectangle-overlap) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Sameerthakurr/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 ## Sorting
 |  |
 | ------- |
@@ -158,4 +160,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Sameerthakurr/leetcode/tree/master/0836-rectangle-overlap) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Sameerthakurr/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
+## Matrix
+|  |
+| ------- |
+| [0883-projection-area-of-3d-shapes](https://github.com/Sameerthakurr/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
