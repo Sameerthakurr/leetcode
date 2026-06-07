@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Sameerthakurr/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Sameerthakurr/leetcode/tree/master/0509-fibonacci-number) |
 | [0598-range-addition-ii](https://github.com/Sameerthakurr/leetcode/tree/master/0598-range-addition-ii) |
+| [0728-self-dividing-numbers](https://github.com/Sameerthakurr/leetcode/tree/master/0728-self-dividing-numbers) |
 ## Sorting
 |  |
 | ------- |
