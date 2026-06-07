@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/Sameerthakurr/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/Sameerthakurr/leetcode/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sameerthakurr/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0976-largest-perimeter-triangle](https://github.com/Sameerthakurr/leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,11 +96,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/Sameerthakurr/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/Sameerthakurr/leetcode/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sameerthakurr/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0976-largest-perimeter-triangle](https://github.com/Sameerthakurr/leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Sameerthakurr/leetcode/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/Sameerthakurr/leetcode/tree/master/0506-relative-ranks) |
+| [0976-largest-perimeter-triangle](https://github.com/Sameerthakurr/leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -175,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sameerthakurr/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Greedy
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Sameerthakurr/leetcode/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
