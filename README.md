@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Sameerthakurr/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Sameerthakurr/leetcode/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/Sameerthakurr/leetcode/tree/master/0506-relative-ranks) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0504-base-7](https://github.com/Sameerthakurr/leetcode/tree/master/0504-base-7) |
+## Sorting
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Sameerthakurr/leetcode/tree/master/0506-relative-ranks) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Sameerthakurr/leetcode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
