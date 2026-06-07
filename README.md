@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sameerthakurr/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Sameerthakurr/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2614-prime-in-diagonal](https://github.com/Sameerthakurr/leetcode/tree/master/2614-prime-in-diagonal) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sameerthakurr/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2864-maximum-odd-binary-number](https://github.com/Sameerthakurr/leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Sameerthakurr/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2928-distribute-candies-among-children-i](https://github.com/Sameerthakurr/leetcode/tree/master/2928-distribute-candies-among-children-i) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sameerthakurr/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Sorting
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/Sameerthakurr/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2582-pass-the-pillow](https://github.com/Sameerthakurr/leetcode/tree/master/2582-pass-the-pillow) |
 | [2739-total-distance-traveled](https://github.com/Sameerthakurr/leetcode/tree/master/2739-total-distance-traveled) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sameerthakurr/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Number Theory
 |  |
 | ------- |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/Sameerthakurr/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Sameerthakurr/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [2614-prime-in-diagonal](https://github.com/Sameerthakurr/leetcode/tree/master/2614-prime-in-diagonal) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sameerthakurr/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Counting
 |  |
 | ------- |
