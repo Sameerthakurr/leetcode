@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/Sameerthakurr/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2525-categorize-box-according-to-criteria](https://github.com/Sameerthakurr/leetcode/tree/master/2525-categorize-box-according-to-criteria) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sameerthakurr/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2544-alternating-digit-sum](https://github.com/Sameerthakurr/leetcode/tree/master/2544-alternating-digit-sum) |
 ## Sorting
 |  |
 | ------- |
