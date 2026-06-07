@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/Sameerthakurr/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2614-prime-in-diagonal](https://github.com/Sameerthakurr/leetcode/tree/master/2614-prime-in-diagonal) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sameerthakurr/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2965-find-missing-and-repeated-values](https://github.com/Sameerthakurr/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sameerthakurr/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Sameerthakurr/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Sameerthakurr/leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
+| [2965-find-missing-and-repeated-values](https://github.com/Sameerthakurr/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Stack
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Sameerthakurr/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2928-distribute-candies-among-children-i](https://github.com/Sameerthakurr/leetcode/tree/master/2928-distribute-candies-among-children-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sameerthakurr/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2965-find-missing-and-repeated-values](https://github.com/Sameerthakurr/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-matrix-cells-in-distance-order](https://github.com/Sameerthakurr/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [2614-prime-in-diagonal](https://github.com/Sameerthakurr/leetcode/tree/master/2614-prime-in-diagonal) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sameerthakurr/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2965-find-missing-and-repeated-values](https://github.com/Sameerthakurr/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Counting
 |  |
 | ------- |
