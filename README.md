@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sameerthakurr/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0976-largest-perimeter-triangle](https://github.com/Sameerthakurr/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/Sameerthakurr/leetcode/tree/master/0989-add-to-array-form-of-integer) |
+| [1030-matrix-cells-in-distance-order](https://github.com/Sameerthakurr/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,12 +100,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sameerthakurr/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0976-largest-perimeter-triangle](https://github.com/Sameerthakurr/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/Sameerthakurr/leetcode/tree/master/0989-add-to-array-form-of-integer) |
+| [1030-matrix-cells-in-distance-order](https://github.com/Sameerthakurr/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Sameerthakurr/leetcode/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/Sameerthakurr/leetcode/tree/master/0506-relative-ranks) |
 | [0976-largest-perimeter-triangle](https://github.com/Sameerthakurr/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1030-matrix-cells-in-distance-order](https://github.com/Sameerthakurr/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -172,10 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Sameerthakurr/leetcode/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Sameerthakurr/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
+| [1030-matrix-cells-in-distance-order](https://github.com/Sameerthakurr/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 ## Matrix
 |  |
 | ------- |
 | [0883-projection-area-of-3d-shapes](https://github.com/Sameerthakurr/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
+| [1030-matrix-cells-in-distance-order](https://github.com/Sameerthakurr/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 ## Counting
 |  |
 | ------- |
