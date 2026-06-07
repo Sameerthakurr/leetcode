@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/Sameerthakurr/leetcode/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sameerthakurr/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Sameerthakurr/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2864-maximum-odd-binary-number](https://github.com/Sameerthakurr/leetcode/tree/master/2864-maximum-odd-binary-number) |
 ## Tree
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2729-check-if-the-number-is-fascinating](https://github.com/Sameerthakurr/leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2739-total-distance-traveled](https://github.com/Sameerthakurr/leetcode/tree/master/2739-total-distance-traveled) |
 | [2843-count-symmetric-integers](https://github.com/Sameerthakurr/leetcode/tree/master/2843-count-symmetric-integers) |
+| [2864-maximum-odd-binary-number](https://github.com/Sameerthakurr/leetcode/tree/master/2864-maximum-odd-binary-number) |
 ## Sorting
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Sameerthakurr/leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2578-split-with-minimum-sum](https://github.com/Sameerthakurr/leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Sameerthakurr/leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
+| [2864-maximum-odd-binary-number](https://github.com/Sameerthakurr/leetcode/tree/master/2864-maximum-odd-binary-number) |
 ## Sliding Window
 |  |
 | ------- |
