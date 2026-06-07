@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Sameerthakurr/leetcode/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/Sameerthakurr/leetcode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Sameerthakurr/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0541-reverse-string-ii](https://github.com/Sameerthakurr/leetcode/tree/master/0541-reverse-string-ii) |
 ## Tree
 |  |
 | ------- |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sameerthakurr/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Two Pointers
+|  |
+| ------- |
+| [0541-reverse-string-ii](https://github.com/Sameerthakurr/leetcode/tree/master/0541-reverse-string-ii) |
 <!---LeetCode Topics End-->
