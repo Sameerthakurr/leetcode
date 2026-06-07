@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0504-base-7](https://github.com/Sameerthakurr/leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Sameerthakurr/leetcode/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/Sameerthakurr/leetcode/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -54,4 +55,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Sameerthakurr/leetcode/tree/master/0506-relative-ranks) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Sameerthakurr/leetcode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Sameerthakurr/leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Sameerthakurr/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
