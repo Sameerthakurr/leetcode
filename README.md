@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/Sameerthakurr/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Sameerthakurr/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/Sameerthakurr/leetcode/tree/master/1037-valid-boomerang) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Sameerthakurr/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Sameerthakurr/leetcode/tree/master/2235-add-two-integers) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Sameerthakurr/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2413-smallest-even-multiple](https://github.com/Sameerthakurr/leetcode/tree/master/2413-smallest-even-multiple) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Sameerthakurr/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Sorting
 |  |
 | ------- |
