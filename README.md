@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/Sameerthakurr/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/Sameerthakurr/leetcode/tree/master/2235-add-two-integers) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Sameerthakurr/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2413-smallest-even-multiple](https://github.com/Sameerthakurr/leetcode/tree/master/2413-smallest-even-multiple) |
 ## Sorting
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Sameerthakurr/leetcode/tree/master/0258-add-digits) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sameerthakurr/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [2413-smallest-even-multiple](https://github.com/Sameerthakurr/leetcode/tree/master/2413-smallest-even-multiple) |
 ## Brainteaser
 |  |
 | ------- |
