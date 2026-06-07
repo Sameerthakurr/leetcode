@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2651-calculate-delayed-arrival-time](https://github.com/Sameerthakurr/leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/Sameerthakurr/leetcode/tree/master/2652-sum-multiples) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Sameerthakurr/leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
+| [2739-total-distance-traveled](https://github.com/Sameerthakurr/leetcode/tree/master/2739-total-distance-traveled) |
 ## Sorting
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/Sameerthakurr/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Sameerthakurr/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2582-pass-the-pillow](https://github.com/Sameerthakurr/leetcode/tree/master/2582-pass-the-pillow) |
+| [2739-total-distance-traveled](https://github.com/Sameerthakurr/leetcode/tree/master/2739-total-distance-traveled) |
 ## Number Theory
 |  |
 | ------- |
