@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2739-total-distance-traveled](https://github.com/Sameerthakurr/leetcode/tree/master/2739-total-distance-traveled) |
 | [2843-count-symmetric-integers](https://github.com/Sameerthakurr/leetcode/tree/master/2843-count-symmetric-integers) |
 | [2864-maximum-odd-binary-number](https://github.com/Sameerthakurr/leetcode/tree/master/2864-maximum-odd-binary-number) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Sameerthakurr/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Sorting
 |  |
 | ------- |
