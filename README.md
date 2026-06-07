@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Sameerthakurr/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/Sameerthakurr/leetcode/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Sameerthakurr/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2485-find-the-pivot-integer](https://github.com/Sameerthakurr/leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Sorting
 |  |
 | ------- |
@@ -208,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Sameerthakurr/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/Sameerthakurr/leetcode/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
