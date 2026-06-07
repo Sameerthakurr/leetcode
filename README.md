@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Sameerthakurr/leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2578-split-with-minimum-sum](https://github.com/Sameerthakurr/leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2582-pass-the-pillow](https://github.com/Sameerthakurr/leetcode/tree/master/2582-pass-the-pillow) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/Sameerthakurr/leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Sameerthakurr/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Sameerthakurr/leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2578-split-with-minimum-sum](https://github.com/Sameerthakurr/leetcode/tree/master/2578-split-with-minimum-sum) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/Sameerthakurr/leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 ## Sliding Window
 |  |
 | ------- |
