@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sameerthakurr/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/Sameerthakurr/leetcode/tree/master/2544-alternating-digit-sum) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Sameerthakurr/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/Sameerthakurr/leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 ## Sorting
 |  |
 | ------- |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/Sameerthakurr/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/Sameerthakurr/leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 ## Sliding Window
 |  |
 | ------- |
