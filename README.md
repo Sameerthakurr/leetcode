@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/Sameerthakurr/leetcode/tree/master/0598-range-addition-ii) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Sameerthakurr/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/Sameerthakurr/leetcode/tree/master/0908-smallest-range-i) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sameerthakurr/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sameerthakurr/leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Sameerthakurr/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Sameerthakurr/leetcode/tree/master/0500-keyboard-row) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sameerthakurr/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Stack
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Sameerthakurr/leetcode/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Sameerthakurr/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/Sameerthakurr/leetcode/tree/master/0908-smallest-range-i) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sameerthakurr/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Sorting
 |  |
 | ------- |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Sameerthakurr/leetcode/tree/master/0258-add-digits) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sameerthakurr/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Brainteaser
 |  |
 | ------- |
@@ -167,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0883-projection-area-of-3d-shapes](https://github.com/Sameerthakurr/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
+## Counting
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sameerthakurr/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
