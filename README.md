@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/Sameerthakurr/leetcode/tree/master/1037-valid-boomerang) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Sameerthakurr/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sameerthakurr/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Sameerthakurr/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Sameerthakurr/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Sameerthakurr/leetcode/tree/master/0500-keyboard-row) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sameerthakurr/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Sameerthakurr/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 ## Stack
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-categorize-box-according-to-criteria](https://github.com/Sameerthakurr/leetcode/tree/master/2525-categorize-box-according-to-criteria) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sameerthakurr/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/Sameerthakurr/leetcode/tree/master/2544-alternating-digit-sum) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Sameerthakurr/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 ## Sorting
 |  |
 | ------- |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Sameerthakurr/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Sameerthakurr/leetcode/tree/master/0412-fizz-buzz) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Sameerthakurr/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Sameerthakurr/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 ## Number Theory
 |  |
 | ------- |
