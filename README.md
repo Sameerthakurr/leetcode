@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0500-keyboard-row](https://github.com/Sameerthakurr/leetcode/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/Sameerthakurr/leetcode/tree/master/0504-base-7) |
 ## Tree
 |  |
 | ------- |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sameerthakurr/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+## Math
+|  |
+| ------- |
+| [0504-base-7](https://github.com/Sameerthakurr/leetcode/tree/master/0504-base-7) |
 <!---LeetCode Topics End-->
