@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Sameerthakurr/leetcode/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/Sameerthakurr/leetcode/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sameerthakurr/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Sameerthakurr/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Tree
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/Sameerthakurr/leetcode/tree/master/1037-valid-boomerang) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Sameerthakurr/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/Sameerthakurr/leetcode/tree/master/2235-add-two-integers) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Sameerthakurr/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Sorting
 |  |
 | ------- |
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/Sameerthakurr/leetcode/tree/master/0976-largest-perimeter-triangle) |
+## Sliding Window
+|  |
+| ------- |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Sameerthakurr/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 <!---LeetCode Topics End-->
