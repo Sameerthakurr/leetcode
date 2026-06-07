@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Sameerthakurr/leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Sameerthakurr/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Sameerthakurr/leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Sameerthakurr/leetcode/tree/master/0506-relative-ranks) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Sameerthakurr/leetcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Sameerthakurr/leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Sameerthakurr/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Sameerthakurr/leetcode/tree/master/0500-keyboard-row) |
 ## Stack
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Sameerthakurr/leetcode/tree/master/0268-missing-number) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sameerthakurr/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sameerthakurr/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
@@ -68,12 +71,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Sameerthakurr/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Sameerthakurr/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Sameerthakurr/leetcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Sameerthakurr/leetcode/tree/master/0268-missing-number) |
 | [0504-base-7](https://github.com/Sameerthakurr/leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Sameerthakurr/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Sameerthakurr/leetcode/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Sameerthakurr/leetcode/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/Sameerthakurr/leetcode/tree/master/0506-relative-ranks) |
 ## Heap (Priority Queue)
 |  |
@@ -113,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Sameerthakurr/leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Sameerthakurr/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Sameerthakurr/leetcode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
