@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Sameerthakurr/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sameerthakurr/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Sameerthakurr/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
+| [2614-prime-in-diagonal](https://github.com/Sameerthakurr/leetcode/tree/master/2614-prime-in-diagonal) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2578-split-with-minimum-sum](https://github.com/Sameerthakurr/leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2582-pass-the-pillow](https://github.com/Sameerthakurr/leetcode/tree/master/2582-pass-the-pillow) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Sameerthakurr/leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
+| [2614-prime-in-diagonal](https://github.com/Sameerthakurr/leetcode/tree/master/2614-prime-in-diagonal) |
 ## Sorting
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Sameerthakurr/leetcode/tree/master/0258-add-digits) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sameerthakurr/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2413-smallest-even-multiple](https://github.com/Sameerthakurr/leetcode/tree/master/2413-smallest-even-multiple) |
+| [2614-prime-in-diagonal](https://github.com/Sameerthakurr/leetcode/tree/master/2614-prime-in-diagonal) |
 ## Brainteaser
 |  |
 | ------- |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0883-projection-area-of-3d-shapes](https://github.com/Sameerthakurr/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Sameerthakurr/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
+| [2614-prime-in-diagonal](https://github.com/Sameerthakurr/leetcode/tree/master/2614-prime-in-diagonal) |
 ## Counting
 |  |
 | ------- |
