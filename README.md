@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2600-k-items-with-the-maximum-sum](https://github.com/Sameerthakurr/leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2614-prime-in-diagonal](https://github.com/Sameerthakurr/leetcode/tree/master/2614-prime-in-diagonal) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Sameerthakurr/leetcode/tree/master/2651-calculate-delayed-arrival-time) |
+| [2652-sum-multiples](https://github.com/Sameerthakurr/leetcode/tree/master/2652-sum-multiples) |
 ## Sorting
 |  |
 | ------- |
