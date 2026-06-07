@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-matrix-cells-in-distance-order](https://github.com/Sameerthakurr/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/Sameerthakurr/leetcode/tree/master/1037-valid-boomerang) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Sameerthakurr/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2235-add-two-integers](https://github.com/Sameerthakurr/leetcode/tree/master/2235-add-two-integers) |
 ## Sorting
 |  |
 | ------- |
