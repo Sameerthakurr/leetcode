@@ -266,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2928-distribute-candies-among-children-i](https://github.com/Sameerthakurr/leetcode/tree/master/2928-distribute-candies-among-children-i) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Sameerthakurr/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
