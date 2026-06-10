@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/Sameerthakurr/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0268-missing-number](https://github.com/Sameerthakurr/leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Sameerthakurr/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Sameerthakurr/leetcode/tree/master/0500-keyboard-row) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sameerthakurr/leetcode/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/Sameerthakurr/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Sameerthakurr/leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Sameerthakurr/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
