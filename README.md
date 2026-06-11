@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sameerthakurr/leetcode/tree/master/0011-container-with-most-water) |
 | [0152-maximum-product-subarray](https://github.com/Sameerthakurr/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0268-missing-number](https://github.com/Sameerthakurr/leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Sameerthakurr/leetcode/tree/master/0496-next-greater-element-i) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sameerthakurr/leetcode/tree/master/0011-container-with-most-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sameerthakurr/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Sameerthakurr/leetcode/tree/master/0202-happy-number) |
 | [0541-reverse-string-ii](https://github.com/Sameerthakurr/leetcode/tree/master/0541-reverse-string-ii) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sameerthakurr/leetcode/tree/master/0011-container-with-most-water) |
 | [0976-largest-perimeter-triangle](https://github.com/Sameerthakurr/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Sameerthakurr/leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2578-split-with-minimum-sum](https://github.com/Sameerthakurr/leetcode/tree/master/2578-split-with-minimum-sum) |
