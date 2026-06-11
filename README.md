@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sameerthakurr/leetcode/tree/master/0011-container-with-most-water) |
 | [0152-maximum-product-subarray](https://github.com/Sameerthakurr/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0268-missing-number](https://github.com/Sameerthakurr/leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Sameerthakurr/leetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Sameerthakurr/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Sameerthakurr/leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Sameerthakurr/leetcode/tree/master/0506-relative-ranks) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sameerthakurr/leetcode/tree/master/0011-container-with-most-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sameerthakurr/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Sameerthakurr/leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Sameerthakurr/leetcode/tree/master/0283-move-zeroes) |
 | [0541-reverse-string-ii](https://github.com/Sameerthakurr/leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sameerthakurr/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Bit Manipulation
