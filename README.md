@@ -70,12 +70,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Sameerthakurr/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sameerthakurr/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sameerthakurr/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Sameerthakurr/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Sameerthakurr/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sameerthakurr/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sameerthakurr/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Sameerthakurr/leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Sameerthakurr/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sameerthakurr/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sameerthakurr/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Sameerthakurr/leetcode/tree/master/0543-diameter-of-binary-tree) |
