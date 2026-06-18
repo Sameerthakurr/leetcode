@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sameerthakurr/leetcode/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/Sameerthakurr/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Sameerthakurr/leetcode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Sameerthakurr/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Sameerthakurr/leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Sameerthakurr/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Sameerthakurr/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sameerthakurr/leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Sameerthakurr/leetcode/tree/master/0509-fibonacci-number) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sameerthakurr/leetcode/tree/master/0011-container-with-most-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sameerthakurr/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Sameerthakurr/leetcode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Sameerthakurr/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Sameerthakurr/leetcode/tree/master/0283-move-zeroes) |
 | [0541-reverse-string-ii](https://github.com/Sameerthakurr/leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sameerthakurr/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sameerthakurr/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sameerthakurr/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Sameerthakurr/leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Sameerthakurr/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
